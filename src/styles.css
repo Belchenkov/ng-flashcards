@@ -1,1 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Dosis', sans-serif;
+  background: url("./assets/img/bg.png") repeat;
+  min-height: 100vh;
+}
